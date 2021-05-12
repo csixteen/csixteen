@@ -4,6 +4,7 @@
 
 - 💵 `.go`, `.py`, `.(ba)sh`, `.tf`
 - ❤️ `.rs`, `.lisp`, `.c`
+- 📚 `.sml`
 - 🐧 (Gentoo) Linux
 - Currently working remotely from 🇳🇱 as a (Software | Site Reliability) Engineer
 
