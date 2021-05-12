@@ -1,8 +1,8 @@
 ### Hi, there! I'm Pedro. 👋
 ---
-### I'm a polyglot Software Engineer experienced with Cloud Infrastructure, a penchant for functional programming and biased towards automating everything.
+### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, a penchant for functional programming and biased towards automating everything.
 
-- 💵 `.go`, `.py`, `.(ba)sh`, `.tf`
+- 💵 `.go`, `.py`, `.(ba)sh`, `.tf`, `AWS`, `K8s`
 - ❤️ `.rs`, `.lisp`, `.c`
 - 📚 `.sml`
 - 🐧 (Gentoo) Linux
