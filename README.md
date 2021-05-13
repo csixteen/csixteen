@@ -2,7 +2,7 @@
 ---
 ### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, a penchant for functional programming and biased towards automating everything.
 
--  💵 `.go`, `.py`, `.(ba)sh`, `.tf`, **AWS**, **K8s**
+-  💵 `.go`, `.py`, `.(ba)sh`, `.tf`, `AWS`, `K8s`
 - ❤️ `.rs`, `.c`, `.lisp`
 - 📚 `.sml`
 - 🐧 (Gentoo) Linux
