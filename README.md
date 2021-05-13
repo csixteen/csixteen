@@ -1,6 +1,6 @@
 ### Hi, there! I'm Pedro. 👋
 ---
-### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, a penchant for functional programming and biased towards automating everything.
+#### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, a penchant for functional programming and biased towards automating everything.
 
 -  💵 `.go`, `.py`, `.(ba)sh`, `.tf`, `AWS`, `K8s`
 - ❤️ `.rs`, `.c`, `.lisp`
@@ -8,7 +8,7 @@
 - 🐧 (Gentoo) Linux
 - Currently working remotely from 🇳🇱 as a (Software | Site Reliability) Engineer
 
-### What kept / keeps me busy
+#### What kept / keeps me busy
 - [Chippy (CHIP-8 emulator)](https://github.com/csixteen/chippy), aZ80 (another Z80 emulator, still private repo), [LeetCode](https://github.com/csixteen/LeetCode).
 - [Advent Of Code](https://github.com/csixteen/AdventOfCode) and [a simple version of Sokoban written in Go](https://github.com/csixteen/sokoban).
 - Brainfuck interpreter written in [Rust](https://github.com/csixteen/rs-bff), [Common Lisp](https://github.com/csixteen/cl-bff), [C](https://github.com/csixteen/c-bff) and [Go](https://github.com/csixteen/go-bff).
