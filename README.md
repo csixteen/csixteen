@@ -3,8 +3,8 @@
 #### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
 
 -  💵 `.go`, `.py`, `.(ba)sh`, `.tf`, `AWS`, `K8s`
-- ❤️ `.rs`, `.c`, `.lisp`
-- 📚 `.sml`
+- ❤️ `.rs`, `.c`, `.(s)ml`, `.lisp`
+- 📚 `.rkt`
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
 - Currently working remotely from 🇳🇱 as a (Software | Site Reliability) Engineer
 
