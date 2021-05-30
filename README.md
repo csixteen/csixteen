@@ -4,7 +4,7 @@
 
 -  💵 `.go`, `.py`, `.(ba)sh`, `.tf`, `AWS`, `K8s`
 - ❤️ `.rs`, `.c`, `.(s)ml`, `.lisp`
-- 📚 `.rkt`
+- 📚 `.erl`
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
 - Currently working remotely from 🇳🇱 as a (Software | Site Reliability) Engineer
 
