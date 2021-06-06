@@ -1,5 +1,4 @@
 ### Hi, there! I'm Pedro. 👋
----
 #### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
 
 -  💵 `.go`, `.py`, `.(ba)sh`, `.tf`, `AWS`, `K8s`
@@ -8,6 +7,7 @@
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
 - Currently working remotely from 🇳🇱 as a (Software | Site Reliability) Engineer
 
+---
 ### Some of the things that kept / keep me busy
 #### Emulators and interpreters
 - [Chippy (CHIP-8 emulator)](https://github.com/csixteen/chippy)
