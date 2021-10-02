@@ -5,7 +5,7 @@
 - ❤️ `.rs`, `.(s)ml`, `.lisp`
 - 📚 `.scala`, 🎹
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
-- Currently working remotely from 🇳🇱 as a (Software | Site Reliability) Engineer
+- Currently working remotely from 🇳🇱 as a Software Engineer
 
 ---
 ### Some of the things that kept / keep me busy
