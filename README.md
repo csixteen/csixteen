@@ -1,7 +1,8 @@
 ### Hi, there! I'm Pedro. 👋
 #### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
 
-- ❤️ `.rs`, `.(s)ml`, `.lisp`, `.scala`
+- 💶 `.scala`, `.py`, `.tf`, `.yaml`
+- ❤️ `.rs`, `.hs`, `.(s)ml`, `.lisp`
 - 📚 🎹 `.hs`
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
 - Currently working remotely from 🇳🇱 as a Software Engineer
