@@ -1,7 +1,7 @@
 ### Hi, there! I'm Pedro. 👋
 #### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
 
-- 💶 `.scala`, `.py`, `.tf`, `.sh`, `.yaml`, `k8s`, `GCP`
+- 💶 `.scala`, `.rs`, `.py`, `.tf`, `.sh`, `.yaml`, `k8s`, `GCP`
 - ❤️ `.rs`, `.hs`, `.(s)ml`, `.lisp`
 - 📚 🎹
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
