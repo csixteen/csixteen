@@ -2,7 +2,7 @@
 #### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
 
 - 💶 `.scala`, `.py`, `.tf`, `.sh`, `.yaml`, `k8s`, `GCP`
-- ❤️ `.rs`, `.hs`, `.scala`, `.(s)ml`, `.lisp`
+- ❤️ `.hs`, `.(s)ml`, `.scala`, `.rs`, `.lisp`
 - 📚 🎹
 - [🐧 (Gentoo) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
 - Currently working remotely from 🇳🇱 as a Software Engineer
