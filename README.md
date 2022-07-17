@@ -11,7 +11,7 @@
 ### Some of the things that kept / keep me busy
 #### Emulators and interpreters
 - [Chippy (CHIP-8 emulator)](https://github.com/csixteen/chippy)
-- Brainfuck interpreter written in [Rust](https://github.com/csixteen/rs-bff), [Common Lisp](https://github.com/csixteen/cl-bff), [C](https://github.com/csixteen/c-bff) and [Go](https://github.com/csixteen/go-bff)
+- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in [Rust](https://github.com/csixteen/rs-bff), [Common Lisp](https://github.com/csixteen/cl-bff), [C](https://github.com/csixteen/c-bff) and [Go](https://github.com/csixteen/go-bff)
 #### Programming Challenges
 - [LeetCode](https://github.com/csixteen/LeetCode)
 - [Advent Of Code](https://github.com/csixteen/AdventOfCode)
