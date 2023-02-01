@@ -1,7 +1,7 @@
 ### Hi, there! I'm Pedro. 👋
 #### I'm a polyglot Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
 
-- 💶 `.scala`, `.rs`, `.py`, `.tf`, `.(ba)sh`, `.yaml`, `k8s`, `GCP`, `Apache * (Kafka + Spark + Airflow)`
+- 💶 `.rs`, `.scala`, `.py`, `.tf`, `.sh`, `.y(a)ml`, `K8s`, `GCP`, `Apache * (Kafka + Spark + Airflow)`
 - ❤️ `.rs`, `.hs`, `.lisp`, `.(s)ml`, :floppy_disk:, :space_invader:
 - 📚 🎹
 - [🐧 (Gentoo|Arch) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
