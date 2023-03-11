@@ -1,5 +1,5 @@
 ### Hi, there! I'm Pedro. 👋
-#### I'm a Software Engineer experienced in Cloud Infrastructure, with a penchant for functional programming and biased towards automating everything.
+#### I'm a Software Engineer, Rust enthusiast and problem solver. I also have experience with cloud infrastructure, a penchant for functional programming and a bias towards automating everything.
 
 - 💶 `.rs`, `.scala`, `.py`, `.tf`, `.sh`, `.y(a)ml`, `K8s`, `GCP`, `Apache * (Kafka + Spark + Airflow)`
 - ❤️ `.rs`, `.hs`, `.lisp`, `.(s)ml`, :floppy_disk:, :space_invader:
