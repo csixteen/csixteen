@@ -20,5 +20,7 @@
 #### Games
 - [A simple version of Sokoban written in Go](https://github.com/csixteen/sokoban).
 - [An attempt at writing Simulated Evolution in Go (still a bit buggy)](https://github.com/csixteen/simulated-evolution)
+#### Other
+- [Honeybee - a port of i3status written in Rust](https://github.com/csixteen/honeybee)
 
 Other stuff that I'm yet to publish on GitHub or haven't mentioned here.
