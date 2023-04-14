@@ -9,6 +9,8 @@
 
 ---
 ### Some of the things that kept / keep me busy
+#### Tools
+- [Honeybee - a port of i3status written in Rust](https://github.com/csixteen/honeybee)
 #### Emulators and interpreters
 - [Chippy (CHIP-8 emulator)](https://github.com/csixteen/chippy)
 - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in [Rust](https://github.com/csixteen/rs-bff), [Common Lisp](https://github.com/csixteen/cl-bff), [C](https://github.com/csixteen/c-bff) and [Go](https://github.com/csixteen/go-bff)
@@ -20,7 +22,5 @@
 #### Games
 - [A simple version of Sokoban written in Go](https://github.com/csixteen/sokoban).
 - [An attempt at writing Simulated Evolution in Go (still a bit buggy)](https://github.com/csixteen/simulated-evolution)
-#### Other
-- [Honeybee - a port of i3status written in Rust](https://github.com/csixteen/honeybee)
 
 Other stuff that I'm yet to publish on GitHub or haven't mentioned here.
