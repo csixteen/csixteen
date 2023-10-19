@@ -1,5 +1,5 @@
-### Hi, there! I'm Pedro. 👋
-#### I'm a Software Engineer, Rust enthusiast and problem solver. I also have experience with cloud infrastructure, a penchant for functional programming and a bias towards automating everything.
+## Hi, there! I'm Pedro. 👋
+I'm a Software Engineer, Rust enthusiast and problem solver. I also have experience with cloud infrastructure, a penchant for functional programming and a bias towards automating everything.
 
 - ❤️ `.rs`, `.hs`, `.lisp`, `.(s)ml`, :floppy_disk:, :space_invader:, :video_game:
 - 📚 🎹
