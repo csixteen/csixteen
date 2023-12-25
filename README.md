@@ -4,7 +4,7 @@ I'm a Software Engineer, Rust enthusiast and problem solver. I also have experie
 - ❤️ `.rs`, `.hs`, `.lisp`, `.(s)ml`, 💾, 👾, 🎮
 - 📚 🎹
 - [🐧 (Gentoo|Arch) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
-- Currently working remotely from 🇳🇱 as a Software Engineer
+- Currently working remotely from 🇳🇱 as a Rust Engineer for [Ditto](https://ditto.live/) 🇺🇸
 
 ---
 ### Some of the things that kept / keep me busy
