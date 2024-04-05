@@ -1,8 +1,8 @@
 ## Hi, there! I'm Pedro. 👋
 I'm a Software Engineer, Rust enthusiast and problem solver. I also have experience with cloud infrastructure, a penchant for functional programming and a bias towards automating everything.
 
-- ❤️ `.rs`, `(.lisp | .el | .scm)`, `.(s)ml`, 💾, 👾, 🎮
-- 📚 🎹
+- ❤️ : `.rs`, `(.lisp | .el | .scm)`, `.scala`, `.(s)ml`, 💾, 👾, 🎮
+- 📚 : 🎹 🇳🇱
 - [🐧 (Gentoo|Arch) Linux, Vim, Emacs, i3wm, URxvt](https://github.com/csixteen/dotties)
 - Currently working remotely from 🇳🇱 as a Rust Engineer for [Ditto](https://ditto.live/) 🇺🇸
 
