@@ -12,7 +12,7 @@ I'm a Software Engineer, Rust enthusiast and problem solver. I also have experie
 - [Honeybee - a port of i3status written in Rust](https://github.com/csixteen/honeybee)
 #### Emulators and interpreters
 - [Chippy (CHIP-8 emulator)](https://github.com/csixteen/chippy)
-- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in [Rust](https://github.com/csixteen/rs-bff), [Common Lisp](https://github.com/csixteen/cl-bff), [C](https://github.com/csixteen/c-bff) and [Go](https://github.com/csixteen/go-bff)
+- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter written in [Rust](https://github.com/csixteen/rs-bff), [Common Lisp](https://github.com/csixteen/cl-bff) and [C](https://github.com/csixteen/c-bff).
 #### Programming Challenges
 - [LeetCode](https://github.com/csixteen/LeetCode)
 - [Advent Of Code](https://github.com/csixteen/AdventOfCode)
