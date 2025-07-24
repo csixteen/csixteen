@@ -1,3 +1,9 @@
+<p>
+  <a href="https://linkedin.com/in/pedromiguelrodrigues">
+    <img src="https://img.shields.io/badge/-Linkedin-0077B5?logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
 ## Hi, there! I'm Pedro. 👋
 I'm a Software Engineer, Rust enthusiast and problem solver. I also have experience with cloud infrastructure, a penchant for functional programming and a bias towards automating everything.
 
